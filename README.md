@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lowellrueca
+- I'm a hobbyist
 - 👀 I’m interested in building web applications
 - 🌱 I’m currently learning C# and Dotnet
 - 💞️ I’m looking to collaborate on ...
